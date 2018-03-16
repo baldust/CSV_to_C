@@ -1,0 +1,20 @@
+﻿component k,component l,"Constants {a(k, l)}","Constants {a(k, l)}"
+methane,ethane,1.020806,0.9994621
+,propane,1.076958,0.9753664
+,i-buthane,1.296998,0.9114115
+,n-buthane,1.103734,0.9491476
+,n-pentane,1,0.9358438
+,nitrogen,1.0158,0.9756714
+,carbon dioxide,1.017094,0.9690212
+,water,0.1739601,2.2325
+ethane,nitrogen,1.051319,0.9899678
+,carbon dioxide,0.8174294,0.9685934
+,water,0.8849272,0.6847481
+propane,nitrogen,1.09676,0.9527788
+,water,0.715441,0.6199581
+n-buthane,nitrogen,1.13723,0.9325496
+,water,1,0.5961099
+nitrogen,carbon dioxide,0.9966382,1.087326
+,water,1.641668,0.6112308
+carbon dioxide,water,1.027601,0.8875383
+water,hydrogen sulfide,1.465175,0.8098737

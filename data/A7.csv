@@ -1,0 +1,15 @@
+﻿component,sigma A,(epsilon/k) K
+methane,3.829,127.5
+ethane,4.559,189.4
+propane,5.242,216.2
+i-buthane,5.825,208.3
+n-buthane,5.911,201.7
+i-pentane,6.089,260.4
+n-pentane,6.078,283.3
+hexane,6.396,318.9
+heptane,6.312,459.6
+oxygen,3.423,113.2
+nitrogen,3.628,99.55
+carbon dioxide,3.894,214.4
+water,2.52,775
+hydrogen sulfide,3.795,301.9
